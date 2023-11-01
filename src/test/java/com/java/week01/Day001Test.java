@@ -16,4 +16,6 @@ public class Day001Test {
 		int value = Day001.getMaxValue(items);
 		assert(value==100);
 	}
+	
+	// Write a test case, if items array is empty //
 }
